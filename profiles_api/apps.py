@@ -1,4 +1,4 @@
-from django.apps import AppConfig
+vdfrom django.apps import AppConfig
 
 
 class ProfilesApiConfig(AppConfig):
